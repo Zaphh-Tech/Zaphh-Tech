@@ -58,7 +58,7 @@ exactly one thing well. Offense to find it, defense to stop it. 🥷
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,bash,linux,js,git,github,vscode,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,solidity,bash,linux,js,git,github,vscode,html,css&theme=dark" />
 
 `Scapy` &nbsp;·&nbsp; `Suricata` &nbsp;·&nbsp; `Bandit` &nbsp;·&nbsp; `ffuf` &nbsp;·&nbsp; `Nmap` &nbsp;·&nbsp; `Burp Suite` &nbsp;·&nbsp; `Wireshark`
 
@@ -105,6 +105,39 @@ Auditing a Flask app with Bandit + manual review.
 **🚨 [Intrusion Detection](https://github.com/Zaphh-Tech/CodeAlpha_NetworkIntrusionDetectionSystem)**
 
 Suricata with custom detection rules.
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Blockchain / Solidity
+
+CodeAlpha Blockchain Development internship — smart contracts written in Solidity,
+compiled with `solc 0.8.19` and tested on an in-memory EVM:
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🔢 [Simple Storage](https://github.com/Zaphh-Tech/CodeAlpha_SimpleStorage)**
+
+An integer you can increment, decrement and read on-chain.
+
+</td>
+<td width="33%" valign="top">
+
+**🗳️ [Polling System](https://github.com/Zaphh-Tech/CodeAlpha_PollingSystem)**
+
+Time-limited polls, one vote per address, winner lookup.
+
+</td>
+<td width="33%" valign="top">
+
+**🔒 [Crypto Locking](https://github.com/Zaphh-Tech/CodeAlpha_CryptoLocking)**
+
+Time-lock vault — Ether locked until an unlock time.
 
 </td>
 </tr>
