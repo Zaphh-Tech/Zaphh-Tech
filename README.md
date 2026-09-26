@@ -177,6 +177,45 @@ Retrieval-based website chatbot (Flask + JS widget).
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Python Programming
+
+CodeAlpha Python Programming internship — core Python projects (all 4 tasks):
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+**🎯 [Hangman](https://github.com/Zaphh-Tech/CodeAlpha_Hangman)**
+
+Text-based word game.
+
+</td>
+<td width="25%" valign="top">
+
+**📈 [Stock Tracker](https://github.com/Zaphh-Tech/CodeAlpha_StockPortfolioTracker)**
+
+Portfolio totals + CSV export.
+
+</td>
+<td width="25%" valign="top">
+
+**⚙️ [Task Automation](https://github.com/Zaphh-Tech/CodeAlpha_TaskAutomation)**
+
+Regex email extractor.
+
+</td>
+<td width="25%" valign="top">
+
+**💬 [Basic Chatbot](https://github.com/Zaphh-Tech/CodeAlpha_BasicChatbot)**
+
+Rule-based terminal bot.
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Battle Stats
 
 <div align="center">
