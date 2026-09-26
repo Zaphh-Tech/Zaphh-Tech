@@ -145,6 +145,38 @@ Time-lock vault — Ether locked until an unlock time.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Cloud Computing
+
+CodeAlpha Cloud Computing internship — Python cloud-service projects, all run and tested:
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🧹 [Data Redundancy Removal](https://github.com/Zaphh-Tech/CodeAlpha_DataRedundancyRemoval)**
+
+Classifies records as redundant / review / unique before DB insert.
+
+</td>
+<td width="33%" valign="top">
+
+**🔐 [Secure Data System](https://github.com/Zaphh-Tech/CodeAlpha_SecureDataSystem)**
+
+SQLi-safe login + AES-256-GCM at rest + bcrypt.
+
+</td>
+<td width="33%" valign="top">
+
+**🤖 [Chatbot](https://github.com/Zaphh-Tech/CodeAlpha_Chatbot)**
+
+Retrieval-based website chatbot (Flask + JS widget).
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Battle Stats
 
 <div align="center">
