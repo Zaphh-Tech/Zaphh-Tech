@@ -216,6 +216,45 @@ Rule-based terminal bot.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
+## <img src="https://media.giphy.com/media/hnNyVPIXgLNleUYbfy/giphy.gif" width="30"> App Development
+
+CodeAlpha App Development internship — plain HTML/CSS/JS apps (localStorage, canvas):
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+**🃏 [Flashcard Quiz](https://github.com/Zaphh-Tech/CodeAlpha_FlashcardQuizApp)**
+
+Study cards + add/edit/delete.
+
+</td>
+<td width="25%" valign="top">
+
+**💬 [Quote Generator](https://github.com/Zaphh-Tech/CodeAlpha_RandomQuoteGenerator)**
+
+Random quotes on click.
+
+</td>
+<td width="25%" valign="top">
+
+**🏋️ [Fitness Tracker](https://github.com/Zaphh-Tech/CodeAlpha_FitnessTracker)**
+
+Logs + canvas progress chart.
+
+</td>
+<td width="25%" valign="top">
+
+**🗣️ [Language Learning](https://github.com/Zaphh-Tech/CodeAlpha_LanguageLearningApp)**
+
+Vocab flashcards + quiz.
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Battle Stats
 
 <div align="center">
