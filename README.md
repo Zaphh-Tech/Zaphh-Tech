@@ -112,6 +112,55 @@ Suricata with custom detection rules.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Prodigy InfoTech Cyber Security Internship
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🔐 [Caesar Cipher](https://github.com/Zaphh-Tech/PRODIGY_CS_01)**
+
+Encrypt / decrypt text with the classic Caesar shift.
+
+</td>
+<td width="33%" valign="top">
+
+**🖼️ [Image Encryption](https://github.com/Zaphh-Tech/PRODIGY_CS_02)**
+
+Pixel-shift image encryptor that round-trips with a key.
+
+</td>
+<td width="33%" valign="top">
+
+**🔑 [Password Checker](https://github.com/Zaphh-Tech/PRODIGY_CS_03)**
+
+Rates password strength and says what it's missing.
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+**⌨️ [Keylogger](https://github.com/Zaphh-Tech/PRODIGY_CS_04)**
+
+Consent-gated keystroke logger for learning, local only.
+
+</td>
+<td width="33%" valign="top">
+
+**📡 [Packet Analyzer](https://github.com/Zaphh-Tech/PRODIGY_CS_05)**
+
+Reads packets and summarizes them in Python / Scapy.
+
+</td>
+<td width="33%" valign="top">
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Battle Stats
 
 <div align="center">
