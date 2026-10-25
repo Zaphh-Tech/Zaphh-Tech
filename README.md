@@ -161,6 +161,43 @@ Reads packets and summarizes them in Python / Scapy.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Datheon Python + FastAPI Backend Internship
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+**[Books API](https://github.com/Zaphh-Tech/Datheon_Python_FastAPI_Backend_Development_Internship/blob/main/app/routers/books.py)**
+
+RESTful CRUD with Pydantic validation, filtering and pagination.
+
+</td>
+<td width="25%" valign="top">
+
+**[JWT Auth](https://github.com/Zaphh-Tech/Datheon_Python_FastAPI_Backend_Development_Internship/blob/main/app/routers/auth.py)**
+
+Register / login with JWT, bcrypt hashing and protected routes.
+
+</td>
+<td width="25%" valign="top">
+
+**[Notes + SQLAlchemy](https://github.com/Zaphh-Tech/Datheon_Python_FastAPI_Backend_Development_Internship/blob/main/app/routers/notes.py)**
+
+Async ORM on SQLite, User→Notes relations, per-user isolation.
+
+</td>
+<td width="25%" valign="top">
+
+**[Background Jobs](https://github.com/Zaphh-Tech/Datheon_Python_FastAPI_Backend_Development_Internship/blob/main/app/routers/notify.py)**
+
+Webhook / email dispatch via BackgroundTasks, rate-limited and Dockerized.
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Battle Stats
 
 <div align="center">
