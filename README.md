@@ -198,6 +198,43 @@ Webhook / email dispatch via BackgroundTasks, rate-limited and Dockerized.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Datheon Java Programming Internship
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+**[Grade Manager](https://github.com/Zaphh-Tech/Datheon_Java_Programming_Internship/tree/main/task1-grade-manager)**
+
+Encapsulated student records with validated marks, GPA on a 4.0 scale and class statistics.
+
+</td>
+<td width="25%" valign="top">
+
+**[ATM & Account Engine](https://github.com/Zaphh-Tech/Datheon_Java_Programming_Internship/tree/main/task2-atm-banking)**
+
+Abstract account hierarchy, custom exceptions and a BigDecimal audit trail.
+
+</td>
+<td width="25%" valign="top">
+
+**[Word Analyzer](https://github.com/Zaphh-Tech/Datheon_Java_Programming_Internship/tree/main/task3-word-analyzer)**
+
+File ingest with BufferedReader, regex tokenising and HashMap keyword ranking.
+
+</td>
+<td width="25%" valign="top">
+
+**[Library System](https://github.com/Zaphh-Tech/Datheon_Java_Programming_Internship/tree/main/task4-library-system)**
+
+ISBN catalogue, 14-day loans and overdue fines computed with java.time.
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Battle Stats
 
 <div align="center">
