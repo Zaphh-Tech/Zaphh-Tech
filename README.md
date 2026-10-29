@@ -235,6 +235,43 @@ ISBN catalogue, 14-day loans and overdue fines computed with java.time.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Datheon Application Security &amp; API Pentesting Internship
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+**[Disclosure Report](https://github.com/Zaphh-Tech/Datheon_Application_Security_-_API_Pentesting_Internship/blob/main/docs/task1-vulnerability-report.md)**
+
+Unauthenticated BOLA on a record API, scored CVSS 3.1 7.5 with cURL reproduction.
+
+</td>
+<td width="25%" valign="top">
+
+**[Authorisation Hardening](https://github.com/Zaphh-Tech/Datheon_Application_Security_-_API_Pentesting_Internship/pull/1)**
+
+Session gate and owner-scoped query, shipped as a reviewed PR with 29 tests.
+
+</td>
+<td width="25%" valign="top">
+
+**[Masked API &amp; DAST Pipeline](https://github.com/Zaphh-Tech/Datheon_Application_Security_-_API_Pentesting_Internship/blob/main/docs/task4-public-api-and-ci.md)**
+
+PII masking, security headers with a CSP nonce, and a ZAP workflow on every push.
+
+</td>
+<td width="25%" valign="top">
+
+**[The Lab](https://github.com/Zaphh-Tech/Datheon_Application_Security_-_API_Pentesting_Internship/tree/main/lab-app)**
+
+The Next.js target itself, vulnerable and hardened, on localhost only.
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Battle Stats
 
 <div align="center">
